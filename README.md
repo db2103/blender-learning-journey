@@ -126,6 +126,15 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
 ---
 
+### Day 13 — 3D Objects
+- Source: [Day 13 - Objects.blend](Day%2013%20-%20Objects.blend)
+- Image: [Output/Day 13 - 3D Objects.png](Output/Day%2013%20-%203D%20Objects.png)
+- Tutorial: [Blender 3D Objects](https://www.youtube.com/watch?v=f_6Wau9WExk)
+
+![Day 13 - 3D Objects](Output/Day%2013%20-%203D%20Objects.png)
+
+---
+
 ## Assets
 
 - **HDRIs:** [hdri/](hdri/) — `blue_lagoon_night_4k.exr`, `grasslands_sunset_4k.exr`
@@ -149,6 +158,7 @@ All models in this repository were built for **learning purposes** by following 
 | 10 | Falling Leaves | [YouTube](https://www.youtube.com/watch?v=kOAPir1-Amc) |
 | 11 | Ice Cream Truck | [YouTube](https://www.youtube.com/watch?v=ponY2Gm5Zkw) |
 | 12 | Potted Plant | [YouTube](https://www.youtube.com/watch?v=e_hZtBPjILw) |
+| 13 | 3D Objects | [YouTube](https://www.youtube.com/watch?v=f_6Wau9WExk) |
 
 > If you are a tutorial author and would like attribution updated or content removed, please open an issue.
 
