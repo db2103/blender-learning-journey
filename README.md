@@ -135,6 +135,16 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
 ---
 
+### Day 14 — Flower Animation
+- Source: [Day 14 - Flower Animation.blend](Day%2014%20-%20Flower%20Animation.blend)
+- Image: [Output/Day 14 - Flower.png](Output/Day%2014%20-%20Flower.png)
+- Video: [Output/Day 14 - Flower.mkv](Output/Day%2014%20-%20Flower.mkv)
+- Tutorial: [Flower Animation](https://www.youtube.com/watch?v=KvPBTwCPOY0&pp=ygUVcG9seWdvbiBydW53YXkgZmxvd2Vy)
+
+![Day 14 - Flower](Output/Day%2014%20-%20Flower.png)
+
+---
+
 ## Assets
 
 - **HDRIs:** [hdri/](hdri/) — `blue_lagoon_night_4k.exr`, `grasslands_sunset_4k.exr`
@@ -159,6 +169,7 @@ All models in this repository were built for **learning purposes** by following 
 | 11 | Ice Cream Truck | [YouTube](https://www.youtube.com/watch?v=ponY2Gm5Zkw) |
 | 12 | Potted Plant | [YouTube](https://www.youtube.com/watch?v=e_hZtBPjILw) |
 | 13 | 3D Objects | [YouTube](https://www.youtube.com/watch?v=f_6Wau9WExk) |
+| 14 | Flower Animation | [YouTube](https://www.youtube.com/watch?v=KvPBTwCPOY0&pp=ygUVcG9seWdvbiBydW53YXkgZmxvd2Vy) |
 
 > If you are a tutorial author and would like attribution updated or content removed, please open an issue.
 
