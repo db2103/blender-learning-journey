@@ -145,6 +145,16 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
 ---
 
+### Day 15 — Factory Animation
+- Source: [Day 15 - Factory Animation.blend](Day%2015%20-%20Factory%20Animation.blend)
+- Image: [Output/Day 15 - Factory.png](Output/Day%2015%20-%20Factory.png)
+- Video: [Output/Day 15 - Factory Animation.mp4](Output/Day%2015%20-%20Factory%20Animation.mp4)
+- Tutorial: [Factory Animation](https://www.youtube.com/watch?v=OhzcCsR_EO0)
+
+![Day 15 - Factory](Output/Day%2015%20-%20Factory.png)
+
+---
+
 ## Assets
 
 - **HDRIs:** [hdri/](hdri/) — `blue_lagoon_night_4k.exr`, `grasslands_sunset_4k.exr`
@@ -170,6 +180,7 @@ All models in this repository were built for **learning purposes** by following 
 | 12 | Potted Plant | [YouTube](https://www.youtube.com/watch?v=e_hZtBPjILw) |
 | 13 | 3D Objects | [YouTube](https://www.youtube.com/watch?v=f_6Wau9WExk) |
 | 14 | Flower Animation | [YouTube](https://www.youtube.com/watch?v=KvPBTwCPOY0&pp=ygUVcG9seWdvbiBydW53YXkgZmxvd2Vy) |
+| 15 | Factory Animation | [YouTube](https://www.youtube.com/watch?v=OhzcCsR_EO0) |
 
 > If you are a tutorial author and would like attribution updated or content removed, please open an issue.
 
