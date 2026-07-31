@@ -155,6 +155,17 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
 ---
 
+### Day 16 — Keypad Animation
+- Source: [Day 16 - Keypad Animation.blend](Day%2016%20-%20Keypad%20Animation.blend)
+- Images: [Access](Output/Day%2016%20-%20Keypad%20-%20Access.png), [Denied](Output/Day%2016%20-%20Keypad%20-%20Denied.png)
+- Video: [Output/Day 16 - Keypad - Animation.mkv](Output/Day%2016%20-%20Keypad%20-%20Animation.mkv)
+- Tutorial: [Blender Keypad Animation](https://www.youtube.com/watch?v=aMl1AucoqQU)
+
+![Day 16 - Keypad Access](Output/Day%2016%20-%20Keypad%20-%20Access.png)
+![Day 16 - Keypad Denied](Output/Day%2016%20-%20Keypad%20-%20Denied.png)
+
+---
+
 ## Assets
 
 - **HDRIs:** [hdri/](hdri/) — `blue_lagoon_night_4k.exr`, `grasslands_sunset_4k.exr`
@@ -166,21 +177,22 @@ All models in this repository were built for **learning purposes** by following 
 
 | Day | Project | Tutorial |
 | --- | --- | --- |
-| 02 | Isometric Room | [YouTube](https://www.youtube.com/watch?v=yCHT23A6aJA) |
-| 02 | Ramen Bowl | [YouTube](https://www.youtube.com/watch?v=-kpjaEU8cPU) |
-| 03 | Rabbit | [YouTube](https://www.youtube.com/watch?v=iMar3keWaUo) (modeling only) |
-| 04 | Simple Boat | [YouTube](https://www.youtube.com/watch?v=TYpY918iMc4) |
-| 05 | Game Animation | [YouTube](https://www.youtube.com/watch?v=yHXeGCq8qH4) |
-| 06 | Animating Ship | [YouTube](https://www.youtube.com/watch?v=Fj9RGlhQjOs) |
-| 07 | Ramen Shop | [YouTube](https://www.youtube.com/watch?v=K7__BjW4UWE) |
-| 08 | Coffee | [YouTube](https://www.youtube.com/watch?v=8jv2n2RElf4) |
-| 09 | Flag | [YouTube](https://www.youtube.com/watch?v=WGKiS_c5GMw) |
-| 10 | Falling Leaves | [YouTube](https://www.youtube.com/watch?v=kOAPir1-Amc) |
-| 11 | Ice Cream Truck | [YouTube](https://www.youtube.com/watch?v=ponY2Gm5Zkw) |
-| 12 | Potted Plant | [YouTube](https://www.youtube.com/watch?v=e_hZtBPjILw) |
-| 13 | 3D Objects | [YouTube](https://www.youtube.com/watch?v=f_6Wau9WExk) |
-| 14 | Flower Animation | [YouTube](https://www.youtube.com/watch?v=KvPBTwCPOY0&pp=ygUVcG9seWdvbiBydW53YXkgZmxvd2Vy) |
-| 15 | Factory Animation | [YouTube](https://www.youtube.com/watch?v=OhzcCsR_EO0) |
+| 02 | Isometric Room | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=yCHT23A6aJA) |
+| 02 | Ramen Bowl | [YouTube- Azusa Tojo](https://www.youtube.com/watch?v=-kpjaEU8cPU) |
+| 03 | Rabbit | [YouTube - Grant Abbit](https://www.youtube.com/watch?v=iMar3keWaUo) (modeling only) |
+| 04 | Simple Boat | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=TYpY918iMc4) |
+| 05 | Game Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=yHXeGCq8qH4) |
+| 06 | Animating Ship | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=Fj9RGlhQjOs) |
+| 07 | Ramen Shop | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=K7__BjW4UWE) |
+| 08 | Coffee | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=8jv2n2RElf4) |
+| 09 | Flag | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=WGKiS_c5GMw) |
+| 10 | Falling Leaves | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=kOAPir1-Amc) |
+| 11 | Ice Cream Truck | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=ponY2Gm5Zkw) |
+| 12 | Potted Plant | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=e_hZtBPjILw) |
+| 13 | 3D Objects | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=f_6Wau9WExk) |
+| 14 | Flower Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=KvPBTwCPOY0&pp=ygUVcG9seWdvbiBydW53YXkgZmxvd2Vy) |
+| 15 | Factory Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=OhzcCsR_EO0) |
+| 16 | Keypad Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=aMl1AucoqQU) |
 
 > If you are a tutorial author and would like attribution updated or content removed, please open an issue.
 
