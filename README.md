@@ -166,6 +166,16 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
 ---
 
+### Day 17 - Truck Animation
+ - Source : [Day 17 - Truck Animation.blend](Day%2017%20-%20Truck%20Animation.blend)
+ - Image : [Output/Day 17 - Truck.png](Output/Day%2017%20-%20Truck.png)
+ - Video : [Output/Day 17 - Truck Animation.mkv](Output/Day%2017%20-%20Truck%20Animation.mkv)
+ - Tutorial : [Blender Truck Animation](https://www.youtube.com/watch?v=XDF0D2M4qq8)
+
+ ![Day 17 - Truck](Output/Day%2017%20-%20Truck.png)
+
+ ---
+
 ## Assets
 
 - **HDRIs:** [hdri/](hdri/) — `blue_lagoon_night_4k.exr`, `grasslands_sunset_4k.exr`
@@ -193,6 +203,7 @@ All models in this repository were built for **learning purposes** by following 
 | 14 | Flower Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=KvPBTwCPOY0&pp=ygUVcG9seWdvbiBydW53YXkgZmxvd2Vy) |
 | 15 | Factory Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=OhzcCsR_EO0) |
 | 16 | Keypad Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=aMl1AucoqQU) |
+| 17 | Truck Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=XDF0D2M4qq8) |
 
 > If you are a tutorial author and would like attribution updated or content removed, please open an issue.
 
