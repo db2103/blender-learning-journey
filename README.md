@@ -176,6 +176,15 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
  ---
 
+### Day 18 — Chess
+- Source: [Day 18 - Chess.blend](Day%2018%20-%20Chess.blend)
+- Image: [Output/Day 18 - Chess.png](Output/Day%2018%20-%20Chess.png)
+- Tutorial: [Blender Chess](https://www.youtube.com/watch?v=Iu8jV7g9Oqk)
+
+![Day 18 - Chess](Output/Day%2018%20-%20Chess.png)
+
+---
+
 ## Assets
 
 - **HDRIs:** [hdri/](hdri/) — `blue_lagoon_night_4k.exr`, `grasslands_sunset_4k.exr`
@@ -204,6 +213,7 @@ All models in this repository were built for **learning purposes** by following 
 | 15 | Factory Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=OhzcCsR_EO0) |
 | 16 | Keypad Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=aMl1AucoqQU) |
 | 17 | Truck Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=XDF0D2M4qq8) |
+| 18 | Chess | [YouTube](https://www.youtube.com/watch?v=Iu8jV7g9Oqk) |
 
 > If you are a tutorial author and would like attribution updated or content removed, please open an issue.
 
