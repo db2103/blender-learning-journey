@@ -185,6 +185,16 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
 ---
 
+### Day 19 — Ocean Waves
+- Source: [Day 19 - Ocean Waves.blend](Day%2019%20-%20Ocean%20Waves.blend), [Buoy.blend](Buoy.blend)
+- Image: [Output/Day 19 - Ocean.png](Output/Day%2019%20-%20Ocean.png)
+- Video: [Output/Day 19 - Ocean.mkv](Output/Day%2019%20-%20Ocean.mkv)
+- Tutorial: [Ocean Blender](https://www.youtube.com/watch?v=oysCSbhXYBo&pp=ygUNb2NlYW4gYmxlbmRlcg%3D%3D)
+
+![Day 19 - Ocean](Output/Day%2019%20-%20Ocean.png)
+
+---
+
 ## Assets
 
 - **HDRIs:** [hdri/](hdri/) — `blue_lagoon_night_4k.exr`, `grasslands_sunset_4k.exr`
@@ -213,7 +223,8 @@ All models in this repository were built for **learning purposes** by following 
 | 15 | Factory Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=OhzcCsR_EO0) |
 | 16 | Keypad Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=aMl1AucoqQU) |
 | 17 | Truck Animation | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=XDF0D2M4qq8) |
-| 18 | Chess | [YouTube](https://www.youtube.com/watch?v=Iu8jV7g9Oqk) |
+| 18 | Chess | [YouTube - Polygon Runaway](https://www.youtube.com/watch?v=Iu8jV7g9Oqk) |
+| 19 | Ocean Waves | [YouTube - Blender Made Easy](https://www.youtube.com/watch?v=oysCSbhXYBo) |
 
 > If you are a tutorial author and would like attribution updated or content removed, please open an issue.
 
