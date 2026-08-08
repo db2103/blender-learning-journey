@@ -195,6 +195,14 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
 ---
 
+### Day 20 — Minecraft
+- Source: [Day 20 - Mine craft.blend](Day%2020%20-%20Mine%20craft.blend)
+- Image: [Output/Day 20 - Minecraft-Steve.png](Output/Day%2020%20-%20Minecraft-Steve.png)
+
+![Day 20 - Minecraft Steve](Output/Day%2020%20-%20Minecraft-Steve.png)
+
+---
+
 ## Assets
 
 - **HDRIs:** [hdri/](hdri/) — `blue_lagoon_night_4k.exr`, `grasslands_sunset_4k.exr`
