@@ -197,9 +197,11 @@ A collection of daily Blender projects. Each day includes the source `.blend` fi
 
 ### Day 20 — Minecraft
 - Source: [Day 20 - Mine craft.blend](Day%2020%20-%20Mine%20craft.blend)
-- Image: [Output/Day 20 - Minecraft-Steve.png](Output/Day%2020%20-%20Minecraft-Steve.png)
+- Images: [Steve](Output/Day%2020%20-%20Minecraft-Steve.png), [Alex](Output/Day%2020%20-%20Minecraft-Alex.png), [Steve & Alex](Output/Day%2020%20-%20Minecraft-Steve%20%26%20Alex.png)
 
 ![Day 20 - Minecraft Steve](Output/Day%2020%20-%20Minecraft-Steve.png)
+![Day 20 - Minecraft Alex](Output/Day%2020%20-%20Minecraft-Alex.png)
+![Day 20 - Minecraft Steve & Alex](Output/Day%2020%20-%20Minecraft-Steve%20%26%20Alex.png)
 
 ---
 
